@@ -25,7 +25,7 @@
  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="60" height="60" margin:4px />
 </p>
 
-- 💬 Ask me about: .NET, C#, Clean-Architecture, Microservices, CQRS, Clean Code, Azure, RabbitMQ, System Design, SQL Server
+- 💬 Ask me about: .NET, C#, RabbitMQ, System Design, Microservices, SQL Server, Hangfire, Scriban, Clean-Architecture, CQRS, Clean Code, Azure, 
 - 👯 I’m looking to collaborate on: .NET projects
 
 </br>
