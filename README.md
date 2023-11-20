@@ -30,6 +30,10 @@
 
 </br>
 
+# :books: Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <p align="center">
  <a href="#" alt="Ahmed Anwar's github stats">
