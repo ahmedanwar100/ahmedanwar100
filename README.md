@@ -32,11 +32,11 @@
 
 # :books: Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Web service? Are RestFul and SOAP APIs web services? but what’s the difference?](https://medium.com/@se.ahmedanwar/what-is-web-service-are-restful-and-soap-apis-web-services-but-whats-the-difference-77964aa0e921?source=rss-2e147d218b80------2)
 - [Pdf generation in .NET](https://medium.com/@se.ahmedanwar/pdf-generation-in-net-794a13b121f4?source=rss-2e147d218b80------2)
 - [What is RabbitMQ? How does it work? Part 2.](https://medium.com/@se.ahmedanwar/what-is-rabbitmq-how-does-it-work-part-2-51d7f5f60e00?source=rss-2e147d218b80------2)
 - [What is Message Queue? Why Message Queue? What is Message Broker? Part 1.](https://medium.com/@se.ahmedanwar/what-is-message-queue-why-message-queue-what-is-message-broker-part-1-55f828c1684c?source=rss-2e147d218b80------2)
 - [What is R.E.S.T? Why R.E.S.T?](https://medium.com/@se.ahmedanwar/what-is-r-e-s-t-why-r-e-s-t-a77ddb28b874?source=rss-2e147d218b80------2)
-- [RabbitMQ installation | Windows](https://medium.com/@se.ahmedanwar/rabbitmq-installation-windows-e2072f60afe9?source=rss-2e147d218b80------2)
 <!-- BLOG-POST-LIST:END -->
 
 
